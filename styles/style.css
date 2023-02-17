@@ -1,0 +1,51 @@
+
+/* header file styles */
+.title-container{
+    background-color: black;
+    height: 393px;
+    
+}
+
+.image-container img{
+    padding-bottom: -30px;
+}
+.title-size{
+    font-size: 50px;
+}
+
+/* main container starts */
+.main-container{
+    
+    background-color: rgb(37, 43, 43);
+}
+.card-container{
+    margin-top: 70px;
+    margin-left: 40px;
+}
+.card-body{
+    background-color: #0D0D0D;
+    color: white;
+}
+.card-title{
+    font-size: 30px;
+    font-weight: 700;
+}
+.btn-select{
+    border: none;
+    padding: 10px 80px;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    background-color: #015196;
+    border-radius: 5px;
+
+}
+/* selected container styles */
+.selected-container{
+    background-color: #0D0D0D;
+
+}
+.budget-container{
+    background-color: #0D0D0D;
+
+}
